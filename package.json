@@ -2,6 +2,8 @@
   "name": "mcp-framework-101",
   "version": "0.0.1",
   "description": "mcp-framework-101 MCP server",
+  "author": "Carlos Grillo",
+  "license": "MIT",
   "type": "module",
   "bin": {
     "mcp-framework-101": "./dist/index.js"
